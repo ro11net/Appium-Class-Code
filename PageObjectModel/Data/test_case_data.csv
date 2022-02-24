@@ -1,0 +1,4 @@
+Placeholder,Step,Page,Object,Keyword,Value
+Placeholder,***STEP1***,LoginWindow,username_field,EnterData,admin
+Placeholder,***STEP2***,LoginWindow,password_field,EnterData,password
+Placeholder,***STEP3***,LoginWindow,login_button,Click,Null
